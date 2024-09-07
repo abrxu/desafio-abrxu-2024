@@ -72,6 +72,4 @@ class RecintosZoo {
     }
 }
 
-console.log(new RecintosZoo().analisaRecintos('MACACO', 1))
-
 export { RecintosZoo as RecintosZoo };
